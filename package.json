@@ -19,7 +19,7 @@
     "react",
     "tensorflow.js"
   ],
-  "homepage": "https://github.com/SameerPatill/YOLOv8-TFJS-WebApp.git",
+  "homepage": "https://github.com/SameerPatill/YOLOv8-TFJS-WebApp#readme",
   "dependencies": {
     "@tensorflow/tfjs": "^4.1.0",
     "normalize.css": "^8.0.1",
